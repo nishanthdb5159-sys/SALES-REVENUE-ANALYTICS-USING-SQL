@@ -1,0 +1,1 @@
+The Sales & Revenue Data Set consists of informations reguarding customers,order_items,orders,productes which has been synthetically made using ChatGPT. The Data Set has been used to make a detailed alalysis of Sales and revenue using SQL Codes. The SQL Codes are present in the SQL Code file providing a detailed insite about the finding of the project.
